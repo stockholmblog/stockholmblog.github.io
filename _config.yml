@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Expats In Sweden
+title: The Stockholm Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  The one stop shop for expats in Sweden, new and old.
+  A blog.
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "The Expat Survival Guide"
+  name   : "The Stockholm Bloggers"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Because there aren't enough places on the internet to find this information in English."
   links:
