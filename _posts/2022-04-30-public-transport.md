@@ -41,6 +41,9 @@ The basic ticket costs SEK 38 and lasts 75 minutes. This means, you can take a t
 
 However, if you're going to be around for longer, you may choose one of the following passes.  
 
+> You pay adult fare if you are between 20 and 64 years old. You pay the discounted fare if you are over 65 years of age, a student holding a Swedish student identity card with the SL logotype, or if you are under 20 years of age.
+
+
 * 24 hours: SEK 165 (adult fare); SEK 110 (discounted fare)
 * 72 hours: SEK 330 (adult fare); SEK 220 (discounted fare)
 * 7 days: SEK 430 (adult fare); SEK 290 (discounted fare)
@@ -52,4 +55,8 @@ However, if you're going to be around for longer, you may choose one of the foll
 
 > As of writing this article, these passes don't work on your debit/credit card and the only way to get them is on your SL card or your phone app.
 
-> You pay adult fare if you are between 20 and 64 years old. You pay the discounted fare if you are over 65 years of age, a student holding a Swedish student identity card with the SL logotype, or if you are under 20 years of age.
+### Travel Passes Validity
+
+7 days travelcards, and travelcards for longer periods of time, are valid from 00.00 on the first day of travel until 04.30 on the day after the travelcard expires. The 24 hour and 72 hour travelcards are valid for the chosen number of hours from the time of first use.
+
+Travelcards are transferable and can be used by several travellers, but only one at a time.
