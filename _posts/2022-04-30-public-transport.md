@@ -37,7 +37,7 @@ You can tap your debit or credit contactless card at one of the terminals on any
 
 ## Ticket Types
 
-The basic ticket costs SEK 38 and lasts 75 minutes. This means, you can take a train, get off at a station, take a bus to the ferry terminal, take a boat to a tram terminal and so on within 75 minutes on the same ticket. A phone ticket is destroyed after every 75 minutes, but if you're using an SL card or a debit/credit card, multiple taps within the 75 minute period doesn't cost you anything.
+The basic ticket costs SEK 39 and lasts 75 minutes. This means, you can take a train, get off at a station, take a bus to the ferry terminal, take a boat to a tram terminal and so on within 75 minutes on the same ticket. A phone ticket is destroyed after every 75 minutes, but if you're using an SL card or a debit/credit card, multiple taps within the 75 minute period doesn't cost you anything.
 
 However, if you're going to be around for longer, you may choose one of the following passes.  
 

@@ -18,11 +18,13 @@ Probably the most straightforward way to get from the airport to any point anywh
 ### Arlanda Express
 The [Arlanda express train]( https://www.arlandaexpress.com/tickets/tickets-prices) is a fast, pretty and very yellow train. It is the fastest way (18 minutes) to get to the city and costs around 300 SEK for one person. Around 200 SEK per head if you’re two. They’re nice about group discounts and list them on their very yellow website.
 ### Pendeltåg
-A cheaper alternative is to take a Pendeltåg (commuter rail) from the Arlanda station to the city. A standard Stockholm metro ticket works on this train, however you must pay 130 SEK as a [passage fee]( https://www.swedavia.com/arlanda/train/) from and into the Arlanda station, apart from the metro ticket price. The advantage of taking this is that if your destination falls on the way to the city, this is very convenient. Also, the metro ticket is valid for 75 minutes, so you can use the same ticket to get on a metro, train, bus or a boat for your onward journey.
+A cheaper alternative is to take a Pendeltåg (commuter rail) from the Arlanda station to the city. A standard Stockholm metro ticket works on this train, however you must pay SEK 130 as a [passage fee]( https://www.swedavia.com/arlanda/train/) from and into the Arlanda station, apart from the metro ticket price. The advantage of taking this is that if your destination falls on the way to the city, this is very convenient. Also, the metro ticket is valid for 75 minutes, so you can use the same ticket to get on a metro, train, bus or a boat for your onward journey.
 ### Flyggbus
 Or, the [airport coach]( https://www.flygbussarna.se/priser). This costs you ~120 SEK on the app and is cheaper when you want to go to and fro. This is obviously slower than the options before it.
 ### SL Bus
-The cheapest and the least convenient option can get you to the city in one metro ticket, or 38 SEK. Take an SL [2] bus from outside the airport to the Märsta station. Then climb on to one of the Pendeltågs heading from the station to the city on the same ticket. You don’t need to pay the Arlanda passage fee here. 
+The cheapest and the least convenient option can get you to the city in one metro ticket, or SEK 39. Take an SL [2] bus from outside the airport to the Märsta station. Then climb on to one of the Pendeltågs heading from the station to the city on the same ticket. You don’t need to pay the Arlanda passage fee here. 
+### Travling at night?
+The SL night busses have you covered. They start from the airport and take you to the city and back. These are also SL busses. You can know more about SL busses in [our aricle on SL]({% post_url 2022-04-30-public-transport %}).
 
 [1] It is however, not the easiest place to navigate. We will cover that in a future article.
 [2] SL is the company that’s responsible for Stockholm’s public transport.
