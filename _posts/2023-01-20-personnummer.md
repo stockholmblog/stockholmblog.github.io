@@ -9,7 +9,7 @@ tags:
   - bankid
 ---
 
-A personnummer is a unique personal identity number assigned to every individual living in Sweden. It is used for various official purposes such as tax identification, social security, and healthcare. The number is made up of 10 digits, with the first 6 digits representing the individual's date of birth, and the last 4 digits being a unique serial number. Personnummer are issued by the Swedish Tax Agency (Skatteverket) and are used as a primary means of identification in Sweden.
+A personnummer is a unique personal identity number assigned to every individual living in Sweden. It is used for various official purposes such as tax identification, social security, and healthcare. The number is made up of 10 digits, with the first 6 digits representing the individual's date of birth, and the last 4 digits being a unique serial number. Personnummer are issued by the Swedish Tax Agency ([Skatteverket](https://www.skatteverket.se/)) and are used as a primary means of identification in Sweden.
 
 ## How to get one?
 To get a personnummer in Sweden, you will need to register with the Swedish Tax Agency (Skatteverket) and provide them with the necessary documentation. The process is typically as follows:
@@ -26,4 +26,4 @@ If you're relocating to Sweden, this is probably the first thing you should do, 
 After getting a personnummer, it's recommended to get an ID card, which serves as a definitive proof of identity in Sweden.  
 
 ## Bank ID
-BankID is a digital identification system used in Sweden to confirm the identity of individuals when accessing online services such as banking, government services, and other private services. It is issued by various banks in the country and is based on the personnummer that each individual is assigned. By using BankID, users can access online services without the need to memorize multiple usernames and passwords, and service providers can verify the identity of users with a high level of confidence. It is widely used in Sweden and is considered to be one of the most secure and efficient digital identification systems in the world.
+[BankID](https://www.bankid.com/) is a digital identification system used in Sweden to confirm the identity of individuals when accessing online services such as banking, government services, and other private services. It is issued by various banks in the country and is based on the personnummer that each individual is assigned. By using BankID, users can access online services without the need to memorize multiple usernames and passwords, and service providers can verify the identity of users with a high level of confidence. It is widely used in Sweden and is considered to be one of the most secure and efficient digital identification systems in the world.
